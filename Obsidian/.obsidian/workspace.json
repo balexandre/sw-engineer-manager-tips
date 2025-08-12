@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba63534a24e1fc8",
+        "id": "393c4a27e65246de",
         "type": "tabs",
         "children": [
           {
-            "id": "13a05f5f0727e2b4",
+            "id": "49ef8d312f70b478",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Screenshot 2025-08-11 at 16.29.49.png"
+                "file": "Team/Sofia L.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-08-11 at 16.29.49"
+              "icon": "lucide-file",
+              "title": "Sofia L"
             }
           }
         ]
@@ -161,8 +163,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -181,15 +183,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13a05f5f0727e2b4",
+  "active": "49ef8d312f70b478",
   "lastOpenFiles": [
+    "Daily Notes/2025-08-04.md",
+    "What should I focus today.md",
+    "Attachments/Screenshot 2025-08-11 at 16.29.49.png",
     "Attachments/Screenshot 2025-08-11 at 16.59.33.png",
     "Attachments/Screenshot 2025-08-11 at 16.55.06.png",
-    "Attachments/Screenshot 2025-08-11 at 16.29.49.png",
-    "What should I focus today.md",
     "Daily Notes/2025-08-05.md",
     "Daily Notes/2025-08-06.md",
     "readme.md",
@@ -202,7 +206,6 @@
     "Attachments/Screenshot 2025-08-11 at 16.11.45.png",
     "Team Iniciatives/Feedback.md",
     "Team Iniciatives/feedback.md",
-    "Daily Notes/2025-08-04.md",
     "Personal/Ethan R.md",
     "Personal/Clara B.md",
     "Daily Notes/2025-08-08.md",

@@ -1,21 +1,19 @@
 # Obsidian Vault Content
 
 This vault was created as a template on how I use it to:
- - take my daily notes
- - write important messages for my future self
- - easily follow up on action points
- - great to round your thoughts before a 1:1
- - an amazing tool to retrospect what could be done better and where to improve
+ - Capture daily notes effortlessly
+ - Write important messages for my future self
+ - Track and follow up on action points with ease
+ - Organize thoughts before a 1:1 meeting
+ - Reflect on what worked well, what could be improved, and where to grow
 
-```
-Disclaimer
-
-All content and personal data contained in this vault were generated using the free version of ChatGPT. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. All names, details, and scenarios are fictional and created for illustrative purposes only. No real personal data has been collected, stored, or verified.
-```
+> [!WARNING]
+> **Disclaimer**
+> All content and personal data contained in this vault were generated using the free version of ChatGPT. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. All names, details, and scenarios are fictional and created for illustrative purposes only. No real personal data has been collected, stored, or verified.
 
 ### Plugins used
 
-![[Screenshot 2025-08-11 at 16.29.49.png]]
+![](<Attachments/Screenshot 2025-08-11 at 16.29.49.png>)
 
 - **Dataview** is a great plugin where everything in your vault is a datasource, so we can query anything, meaning, we can have data spread out by dates (Daily Notes) and easily create a page (Developer or Person in my case) with only their own data
 - **Templater** is used to keep templates
@@ -33,15 +31,15 @@ I have a Daily Notes template that is pre-build and I just need to delete what I
 
 I use `dataview` variables for several areas
 - Meetings, talks and 1-on-1s with: 
-	- `edd` -> stands for E D D
-	- `oneonone` -> 1:1 but we ca not use numbers
-	- `with` -> when meeting with someone
+	- `edd` -> the yearly talk
+	- `oneonone` -> 1:1 ([as we can't use numbers](https://blacksmithgu.github.io/obsidian-dataview/annotation/add-metadata/#inline-fields) or the query will through a parser error)
+	- `with` -> when meeting "with" someone
 - In the developer page with:
 	- `quickactions` -> what I write here, it will show in the HomePage (the [[What should I focus today]])
 
 here are some examples with the data contained in this vault
 
-![[Screenshot 2025-08-11 at 16.55.06.png]]
+![](<Attachments/Screenshot 2025-08-11 at 16.55.06.png>)
 
 in a quick glance, one could see some quick actions to do in a daily-bases or wait until the next 1:1
 
@@ -49,7 +47,7 @@ also, by gathering all actions points during the days, one can check what's miss
 
 In the Person and Developer pages, I use almost the same technique, but specifying the person itself and we can quickly see a list of conversations and. when they occurred
 
-![[Screenshot 2025-08-11 at 16.59.33.png]]
+![](<Attachments/Screenshot 2025-08-11 at 16.59.33.png>)
 
 ## Knowledge Session
 

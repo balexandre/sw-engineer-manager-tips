@@ -70,7 +70,7 @@ vs
 
 ```
 Me: Hey <Developer>, how's your week going?
-Direct-Report #1: Same as last week, just working on what's assigned. You can check Jira for the latest updates.
+Direct-Report #2: Same as last week, just working on what's assigned. You can check Jira for the latest updates.
 ```
 
 I personally love the challenge, but at the end of the day, there are days that you're completely drained, and the next day you need to come to the office with a fresh face. I do tend to take days here and there to avoid depleting my battery for good
