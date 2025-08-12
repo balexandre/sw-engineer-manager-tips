@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ba63534a24e1fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13a05f5f0727e2b4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Screenshot 2025-08-11 at 16.29.49.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-08-11 at 16.29.49"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a8507cdd8bf3fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c296c1356660f29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f684dc985920636",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9ccbf5c3d38f6ef8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "19f3ae18a61d9cfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "1ccaac80a8ca07f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "238b23dbe05ea98a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f198330522bbbfb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for readme"
+            }
+          },
+          {
+            "id": "b16fcb9bf38a711f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from readme"
+            }
+          },
+          {
+            "id": "2a4461b939e51740",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d39a9989668f7e5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readme"
+            }
+          }
+        ]
+      },
+      {
+        "id": "185ffdfee5e01f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11bffd49bc983cc0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "13a05f5f0727e2b4",
+  "lastOpenFiles": [
+    "Attachments/Screenshot 2025-08-11 at 16.59.33.png",
+    "Attachments/Screenshot 2025-08-11 at 16.55.06.png",
+    "Attachments/Screenshot 2025-08-11 at 16.29.49.png",
+    "What should I focus today.md",
+    "Daily Notes/2025-08-05.md",
+    "Daily Notes/2025-08-06.md",
+    "readme.md",
+    "Team/Ravi K.md",
+    "Team/Sofia L.md",
+    "Team/Lucas M.md",
+    "Personal/Marco T.md",
+    "What.md",
+    "Templates/New Developer.md",
+    "Attachments/Screenshot 2025-08-11 at 16.11.45.png",
+    "Team Iniciatives/Feedback.md",
+    "Team Iniciatives/feedback.md",
+    "Daily Notes/2025-08-04.md",
+    "Personal/Ethan R.md",
+    "Personal/Clara B.md",
+    "Daily Notes/2025-08-08.md",
+    "Daily Notes/2025-08-07.md",
+    "Templates/Daily template.md",
+    "Templates/New Person.md"
+  ]
+}
